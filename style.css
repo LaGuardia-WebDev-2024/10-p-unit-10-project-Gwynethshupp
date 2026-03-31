@@ -1,5 +1,5 @@
 body {
-  background-image: url("Sprinkles.jpg");
+  background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwMTMtcC0wMDAxYV8yLWtzaTg2cXlmLmpwZw.jpg");
   background-color: hsl(213, 85%, 92%);
   background-blend-mode: overlay;
   text-align: center;
@@ -16,7 +16,7 @@ html{
 
 #myCanvas1 {
   border: 1px solid black;
-  background-image: url("supermarket-interior-shelf_165488-3982.avif");
+  background-image: url("https://freesvg.org/img/Bookshelves-Empty.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
